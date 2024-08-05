@@ -1,0 +1,18 @@
+let arrayWords = [
+    'Liga BetPlay',
+    'Sobre Nosotros',
+    'Contactanos',
+    'Siguenos',
+    'Somos la Dimayor, una institución la cual es la encargada de dirigir el futbol profesional colombiano, y sus torneos afiliados.',
+    'Email: contactanosdimayor@dimayor.com',
+    'Telefono: +601 5185510',
+    'Dirección: Carrera 45A #94-06',
+    '© 2024 Dimayor. Todos los derechos reservados.',
+    'Politicas de Privacidad.',
+    'Terminos de Servicio.',
+    'Todos los Clubs',
+    'Todos los Campeonatos',
+    'Todos los Calendarios',
+    'Estadisticas',
+    'Tabla de Posiciones',
+];
